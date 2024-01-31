@@ -4,7 +4,6 @@ This project demonstrates the implementation of a simple pagination system using
 
 ## Table of Contents
 - [Description](#description)
-- [Preview](#preview)
 - [Features](#features)
 - [Usage](#usage)
 - [Styling](#styling)
